@@ -18,7 +18,7 @@ public class VehiculoDao {
 
 	}
 
-	// Leer personas
+	// Leer vehiculos
 	public List<Vehiculo> leer() {
 		 List<Vehiculo> vehiculos = new ArrayList<Vehiculo>();
 	        try {
@@ -40,7 +40,7 @@ public class VehiculoDao {
 	        return vehiculos;
 	}
 
-	// Escribir personas
+	// Escribir vehiculos
 	public void escribir(List<Vehiculo> vehiculos) {
 		   try {
 	            //Indicamos el fichero a buscar
