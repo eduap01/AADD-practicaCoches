@@ -1,0 +1,26 @@
+Becas:
+4
+id:
+1
+cuota:
+1000,0
+descripción:
+6546
+id:
+2
+cuota:
+2000,0
+descripción:
+5665
+id:
+3
+cuota:
+40000,0
+descripción:
+40000
+id:
+4
+cuota:
+43,0
+descripción:
+dsfd fds
